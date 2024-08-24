@@ -30,8 +30,8 @@
 ## Resources
 <p> Below are my sources for the ROMs and the CHIP-8's specs </p>
 
-<p> ![Test Suite](https://github.com/Timendus/chip8-test-suite?tab=readme-ov-file#keypad-test)</p>
+[Test Suite](https://github.com/Timendus/chip8-test-suite?tab=readme-ov-file#keypad-test)
 
-<p> ![Hardware Specifications](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set#notes)</p>
+[Hardware Specifications](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set#notes)
 
-<p> ![Pong, Tetris and Space Invaders](https://github.com/kripod/chip8-roms)</p>
+[Pong, Tetris and Space Invaders](https://github.com/kripod/chip8-roms)
