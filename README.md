@@ -12,9 +12,9 @@
 
 ## Using This Repo
 
-<p>You can use the MakeFile (mingw32-make -f MakeFile) </p>
+<p>You can use the MakeFile </p>
 
-<p>Or compile manually (g++ -std=c++17 -Iinclude -Iinclude/SDL2 -Llib -o Chip8 src/*.cpp -lmingw32 -lSDL2main -lSDL2) </p>
+<p>Or compile manually </p>
 
 <p>Some ROMs can be found in the ROMs folder, simply drag and drop into the main directory and then run the program with the ROMs filename as the only argument (ex. Chip8 "Pong [Paul Vervalin, 1990].ch8") </p>
 
